@@ -1,0 +1,39 @@
+.bg-container {
+  height: 100px;
+  background-color: #3367d6;
+  display: flex;
+  align-items: center;
+}
+.head {
+  margin-left: 15px;
+}
+.img {
+  width: 25px;
+}
+.search {
+  height: 35px;
+  width: 40px;
+  background-color: #2850a7;
+  margin-left: 500px;
+  padding: 4px;
+  display: flex;
+}
+.input-search {
+  height: 35px;
+  width: 300px;
+  border-width: 0;
+  background-color: #2850a7;
+  margin-left: 2px;
+  outline: none;
+}
+.list-cont {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+.card-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
